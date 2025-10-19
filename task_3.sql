@@ -1,1 +1,2 @@
-mysql -u root -p alx_book_store < task_3.sql
+-- List all tables in the specified database
+SHOW TABLES;
