@@ -1,1 +1,2 @@
-mysql -u root -p alx_book_store < task_4.sql
+-- Display the full description of the table books
+SHOW CREATE TABLE Books;
